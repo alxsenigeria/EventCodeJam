@@ -7,6 +7,7 @@ All the codes must be made betty compliant before being pushed to the repository
 All wrnings will be treated as compilation error.
 No restriction in the UNix/Linux version or distro to be used
 Do not use any form of AI technology to answer the questions. KIMBA has eyes on your code
+Yes, you are to make the codes perfect but you are not allowed to change the codes but you must make sure they work.
 
 ## Challenges
 
@@ -29,7 +30,7 @@ Hi, I'm Darth Jade-i.
 ### Challenge 2: [Guy, Where you dey?]
 
 The second challenge, ni-ojuelegba.c is to test your navigation skills through the memory of your laptop.
-Complete the function void update(int *a, int *b). It receives two integer pointers int *a and int *b. Set the value of a to their sum, and b to their absolute difference. (There is no return value, and no return statement is neede.)
+Complete the function void update(int *a, int *b). It receives two integer pointers int *a and int *b. Set the value of a to their sum, and b to their absolute difference. (There is no return value, and no return statement is needed.)
 
 #### Sample Case
 
@@ -48,29 +49,58 @@ Explanation
 a = 4 + 5 = 9
 b = |4 - 5| = 1
 
-### Challenge 3: [Challenge Title 3]
+### Challenge 3: [I am the Greatest!!]
 
-[Provide a brief description of the third challenge. Mention any specific requirements or constraints.]
+This third challenge, mohammed-ali.c, challenges your function integration skills.
+Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
+
+Note
+
+There is no built in max function in C. Code that will be reused is often put in a separate function, e.g. int max(x, y) that returns the greater of the two values.
+
+
+
+#### Sample Case
+input
+4
+3
+6
+5
+
+output
+6
+
+
+### Challenge 4: [Wakanda forever! Oh, wait, I mean looping forever! But hey, Wakanda's pretty cool too, right? Anyway, back to our loop-de-loop adventure! Looping forever!.]
+
+This fourth challenge, lupita-nyogo.c, challenges your control flow skills.
+Given a five digit integer, print the sum of its digits. In this challenge make sure to address every possible edge case.
 
 #### Usage
 
-[Explain how to use the provided files and any additional information required to tackle the challenge.]
+Input Format
 
-### Challenge 4: [Challenge Title 4]
+The input contains a single five digit number, .
 
-[Provide a brief description of the fourth challenge. Mention any specific requirements or constraints.]
+Output Format
 
-#### Usage
+Print the sum of the digits of the five digit number.
 
-[Explain how to use the provided files and any additional information required to tackle the challenge.]
+input
+10564
 
-### Challenge 5: [Challenge Title 5]
+output
+16
 
-[Provide a brief description of the fifth challenge. Mention any specific requirements or constraints.]
+### Challenge 5: [Another One!!! Lupita again?]
+The fourth challenge, dj-khalid.c, challenges your ability to use recursion. So the challenge is to solve the fourth challenge, lupita-nyogo.c using recursion. Just remember to rename it as dj-khalid.c
 
-#### Usage
 
-[Explain how to use the provided files and any additional information required to tackle the challenge.]
+
+#### Sample case
+same as challenge four
+
+
 
 ## Contributing
 
