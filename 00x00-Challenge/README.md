@@ -13,7 +13,7 @@ Yes, you are to make the codes perfect but you are not allowed to change the cod
 
 ### Challenge 1: [First of all, introduction]
 
-The first challenge  olamide-badoo.c is all about getting to know you. It's time you introduce yourself to the world.
+The first challenge  [olamide-badoo.c](https://github.com/dohoudanielaetheris/EventCodeJam/blob/main/00x00-Challenge/olamide-Badoo.c) is all about getting to know you. It's time you introduce yourself to the world.
 This challenge requires you to print a text introducing yourself on a single line, and then print a string inputed by a user to stdout.
 If you are not familiar with C, you may want to read about the printf() command.
 
@@ -29,7 +29,7 @@ Hi, I'm Darth Jade-i.
 
 ### Challenge 2: [Guy, Where you dey?]
 
-The second challenge, ni-ojuelegba.c is to test your navigation skills through the memory of your laptop.
+The second challenge, [ni-ojuelegba.c](https://github.com/dohoudanielaetheris/EventCodeJam/blob/main/00x00-Challenge/ni-ojuelegba.c) is to test your navigation skills through the memory of your laptop.
 Complete the function void update(int *a, int *b). It receives two integer pointers int *a and int *b. Set the value of a to their sum, and b to their absolute difference. (There is no return value, and no return statement is needed.)
 
 #### Sample Case
@@ -51,7 +51,7 @@ b = |4 - 5| = 1
 
 ### Challenge 3: [I am the Greatest!!]
 
-This third challenge, mohammed-ali.c, challenges your function integration skills.
+This third challenge, [mohammed-ali.c](https://github.com/dohoudanielaetheris/EventCodeJam/blob/main/00x00-Challenge/mohammed-ali.c), challenges your function integration skills.
 Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
 
 Note
@@ -73,7 +73,7 @@ output
 
 ### Challenge 4: [Wakanda forever! Oh, wait, I mean looping forever! But hey, Wakanda's pretty cool too, right? Anyway, back to our loop-de-loop adventure! Looping forever!.]
 
-This fourth challenge, lupita-nyogo.c, challenges your control flow skills.
+This fourth challenge, [lupita-nyogo.c](https://github.com/dohoudanielaetheris/EventCodeJam/blob/main/00x00-Challenge/lupita-nyogo.c), challenges your control flow skills.
 Given a five digit integer, print the sum of its digits. In this challenge make sure to address every possible edge case.
 
 #### Usage
