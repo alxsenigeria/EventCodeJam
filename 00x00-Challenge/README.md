@@ -3,13 +3,25 @@
 Welcome to the CodeJamChallenge repository! Here you'll find a collection of exciting coding challenges to sharpen your skills and have some fun. Feel free to explore, attempt the challenges, and contribute your solutions.
 
 #NOTE
-All the codes must be made betty compliant.ZZ
+All the codes must be made betty compliant before being pushed to the repository.
+All wrnings will be treated as compilation error.
+No restriction in the UNix/Linux version or distro to be used
+Do not use any form of AI technology to answer the questions. KIMBA has eyes on your code
+
 ## Challenges
 
 ### Challenge 1: [First of all, introduction]
 
-The first challenge is all about getting to know you. It's time you introduce yourself to the world.
+The first challenge  olamide-badoo.c is all about getting to know you. It's time you introduce yourself to the world.
+This challenge requires you to print a text introducing yourself on a single line, and then print a string inputed by a user to stdout.
+If you are not familiar with C, you may want to read about the printf() command.
 
+input
+First of all, introduction.
+
+output
+First of all, introduction.
+Hi, I'm Darth Jade-i.  
 
 #### Usage
 
