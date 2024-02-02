@@ -93,7 +93,7 @@ output
 16
 
 ### Challenge 5: [Another One!!! Lupita again?]
-The fourth challenge, dj-khalid.c, challenges your ability to use recursion. So the challenge is to solve the fourth challenge, lupita-nyogo.c using recursion. Just remember to rename it as dj-khalid.c
+The fifth challenge, dj-khalid.c, challenges your ability to use recursion. So the challenge is to solve the fourth challenge, [lupita-nyogo.c](https://github.com/dohoudanielaetheris/EventCodeJam/blob/main/00x00-Challenge/lupita-nyogo.c) using recursion. Just remember to rename it as dj-khalid.c
 
 
 
