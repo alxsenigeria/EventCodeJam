@@ -16,6 +16,7 @@ The first challenge  olamide-badoo.c is all about getting to know you. It's time
 This challenge requires you to print a text introducing yourself on a single line, and then print a string inputed by a user to stdout.
 If you are not familiar with C, you may want to read about the printf() command.
 
+#### Sample case
 input
 First of all, introduction.
 
@@ -23,17 +24,29 @@ output
 First of all, introduction.
 Hi, I'm Darth Jade-i.  
 
-#### Usage
 
-[Explain how to use the provided files and any additional information required to tackle the challenge.]
 
-### Challenge 2: [Challenge Title 2]
+### Challenge 2: [Guy, Where you dey?]
 
-[Provide a brief description of the second challenge. Mention any specific requirements or constraints.]
+The second challenge, ni-ojuelegba.c is to test your navigation skills through the memory of your laptop.
+Complete the function void update(int *a, int *b). It receives two integer pointers int *a and int *b. Set the value of a to their sum, and b to their absolute difference. (There is no return value, and no return statement is neede.)
 
-#### Usage
+#### Sample Case
 
-[Explain how to use the provided files and any additional information required to tackle the challenge.]
+The input will contain two integers, a and b, seperated by a newline.
+Modify the two values in place and the code stub main() will print values.
+
+input
+4
+5
+
+output
+9
+1
+
+Explanation
+a = 4 + 5 = 9
+b = |4 - 5| = 1
 
 ### Challenge 3: [Challenge Title 3]
 
