@@ -100,11 +100,13 @@ The fourth challenge, dj-khalid.c, challenges your ability to use recursion. So 
 #### Sample case
 same as challenge four
 
-
+## Caveat
+All these challenge codes were curated from hackerrank.com
 
 ## Contributing
 
 Feel free to contribute your solutions to these challenges! Create a branch, solve the challenge, and submit a pull request. Don't forget to share your thoughts and insights.
 
 Happy coding!
+
 
